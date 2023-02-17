@@ -1,4 +1,5 @@
 <template>
+  <!-- Hero Section -->
   <section class="w-full mt-44 px-10 sm:px-14 lg:px-40 py-4 bg-white">
     <div class="flex h-full items-center justify-between mx-auto max-w-7xl">
             <div class="w-full xl:w-2/5 items-center justify-center space-y-10 h-2/3">
@@ -24,6 +25,7 @@
             </div>
         </div>
   </section>
+  <!-- Middle Section -->
   <section class="w-full section2 mt-44 px-10 sm:px-14 lg:px-40 py-4 bg-neutral-200  xl:bg-white ">
     <div class="flex h-full items-center space-x-10 xl:space-x-0 xl:items-start justify-between mx-auto max-w-7xl">
             <div class="w-full xl:w-1/5 items-center justify-center space-y-5 h-1/3">
